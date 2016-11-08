@@ -1,3 +1,4 @@
 .idea/WosTracer.iml
 .idea/modules.xml
+.idea/*
 *.xml
